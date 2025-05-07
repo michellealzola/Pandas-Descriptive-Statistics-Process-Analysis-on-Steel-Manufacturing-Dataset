@@ -58,26 +58,9 @@ This exercise simulates **real-life industrial data exploration** and builds ski
 - Profiling process parameters for **manufacturing optimization**
 
 ---
-🚀 How to Run
-Clone the repository:
 
-git clone https://github.com/michellealzola/pandas_descriptive_statistics_rul_analysis.git
-cd pandas_descriptive_statistics_rul_analysis
-Install dependencies (optional but recommended):
-
-pip install pandas numpy jupyter
-Open in Jupyter:
-
-jupyter notebook
-📸 Featured Blog Post
-Read the full blog post breakdown here:
-🔗 Exploring Process Trends with Pandas: Manufacturing Insights
-
-🔗 Related Tags
-pandas data-analysis descriptive-statistics steel-manufacturing EDA RUL engineering-data correlation rolling-mean python
-
-📬 Contact
+### 📬 Contact
 For collaborations, feedback, or questions:
-Michelle Alzola
+#### Michelle Alzola
 🌐 www.python.michellealzoladesign.com
 
